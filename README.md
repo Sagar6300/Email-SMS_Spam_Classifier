@@ -23,7 +23,7 @@ The application will output whether the given message is:
 - **Spam**: The message is classified as unwanted or promotional content.
 - **Not Spam**: The message is classified as legitimate communication.
 --- 
-## Example Screenshot
+## Screenshots
 ### Application Interface
 ![image](https://github.com/user-attachments/assets/3074ce82-e47f-4c97-a58f-ae3b020b7f77)
 
