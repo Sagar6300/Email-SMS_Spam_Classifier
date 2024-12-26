@@ -48,7 +48,7 @@ The application will output whether the given message is:
 
 ## Dataset
 
-The model is trained on a dataset containing labeled emails and SMS messages as either **Spam** or **Not Spam**. The dataset has been preprocessed to remove noise and ensure optimal performance.
+The model is trained on a dataset containing labeled emails and SMS messages as either **Spam** or **Ham (Not Spam)**. The dataset has been preprocessed to remove noise and ensure optimal performance.
 
 
 ## Model
